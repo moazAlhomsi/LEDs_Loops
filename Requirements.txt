@@ -1,0 +1,7 @@
+-	Arduino Uno R3
+
+-	Jumper wires
+
+-	2x LEDs
+
+-	2x Resistors 330 ohms
